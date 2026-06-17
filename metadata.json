@@ -1,0 +1,6 @@
+{
+  "name": "ZeroWaste Connect",
+  "description": "Plataforma de impacto social que conecta doadores de alimentos (restaurantes) a receptores em situação de vulnerabilidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
